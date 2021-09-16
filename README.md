@@ -4,7 +4,7 @@ This game is made as a study in game development, presented by Agate Academy 202
 ![Capture](https://user-images.githubusercontent.com/89561572/133623276-ab1f42a6-1cb2-4313-8651-6e52f03525f4.JPG)
 
 # How To Run
-There is no need to install the game. The build version of the game is in the build file. All you have to do is just run the .exe file, setup your prefered resolution size, and the game runs right away it. Windowed mode is recommended to close the game easily since there's no exit button in the game.
+There is no need to install the game. The build version of the game is in the zip file. All you have to do is just run the .exe file, setup your prefered resolution size, and the game runs right away it. Windowed mode is recommended to close the game easily since there's no exit button in the game.
 
 # Features & Keybinds
 * This is a 1 player game
